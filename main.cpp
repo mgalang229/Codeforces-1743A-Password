@@ -11,8 +11,6 @@ y y x x
 y x x y
 6 arrangements for every pair of 2 distinct numbers
 
-numbers available / 2 * 6
-
 1 2 3 4 5 6 7 8 9
 -----------------
 0 1 2 3 4 5 6 7 9 (available)
